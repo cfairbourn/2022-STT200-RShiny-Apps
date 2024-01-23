@@ -1,0 +1,12 @@
+name: pairedci
+title: PairedCI
+username: fairbou2
+account: fairbou2
+server: rstudioconnect.stt.msu.edu
+hostUrl: https://rstudioconnect.stt.msu.edu/__api__
+appId: 35
+bundleId: 57
+url: https://rstudioconnect.stt.msu.edu/content/963e1783-43a9-492e-b946-1f78e0ddb2c8/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: pairedt-test
+title: PairedT-Test
+username: fairbou2
+account: fairbou2
+server: rstudioconnect.stt.msu.edu
+hostUrl: https://rstudioconnect.stt.msu.edu/__api__
+appId: 34
+bundleId: 56
+url: https://rstudioconnect.stt.msu.edu/content/98997e52-6c8c-43c3-af8d-9f4853511b42/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
