@@ -1,0 +1,12 @@
+name: cdfgame
+title: CDFGame
+username: fairbour
+account: fairbour
+server: rstudioconnect.stt.msu.edu
+hostUrl: https://rstudioconnect.stt.msu.edu/__api__
+appId: 43
+bundleId: 81
+url: https://rstudioconnect.stt.msu.edu/content/cdd25678-d752-4d63-84f6-7dd122e872bf/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
